@@ -29,6 +29,7 @@ Jupyter Notebook - это веб-приложение с открытым исх
 - В [Analysis.ipynb](https://github.com/lode00/wifi/blob/main/Analysis.ipynb) показана работа алгоритмов, а также используется визуализация набора данных.
 - В [Data_indoor.xlsx](https://github.com/lode00/wifi/blob/main/Data_indoor.xlsx) создана база отпечатков пальцев RSSI и сопоставлены соответствующие координаты.
 - В [Data_route.xlsx](https://github.com/lode00/wifi/blob/main/Data_route.xlsx) показаны сырые данные маршрутов №1 и №2.
+- В [Experiment_napravl.xlsx](https://github.com/lode00/wifi/blob/main/Experiment_napravl.xlsx) показаны результаты сбора уровня RSSI при разных положениях смартфона (Сравнение мощности принимаемого сигнала при разных положениях смартфона)
 
 Заключение
 -----------
